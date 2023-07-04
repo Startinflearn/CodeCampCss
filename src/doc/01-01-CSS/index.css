@@ -1,0 +1,16 @@
+.title {
+    color: red;
+}
+
+.box1 .title {
+    color: yellow;
+}
+.content {
+    font-size: 28px;
+    font-style: normal;
+    text-decoration: underline;
+    font-weight: 500;
+}
+.title#headline {
+    color: violet;
+}
