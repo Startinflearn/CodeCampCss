@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    background-color: red;
+}
+div {
+    background-color: blue;
+}
+.text-class {
+    background-color: yellow;
+}
+#text-id{
+    background-color: green;
+}
